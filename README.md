@@ -10,6 +10,6 @@ The repository includes the final project links and folders for Advanced Embedde
 * [Project Schedule](https://github.com/cu-ecen-5013/final-project-HARSH1911RATHORE/wiki/Project-Schedule)
 
 ### TEAM MEMBERS
-* [HARSH RATHORE]
-* [KUSHAGRA PANDEY]
-* [VAIDEHI SALWAY]
+* HARSH RATHORE
+* KUSHAGRA PANDEY
+* VAIDEHI SALWAY
