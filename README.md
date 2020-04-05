@@ -12,4 +12,4 @@ The repository includes the final project links and folders for Advanced Embedde
 ### TEAM MEMBERS
 * [HARSH RATHORE]
 * [KUSHAGRA PANDEY]
-* [VAIDEHI SALWE]
+* [VAIDEHI SALWAY]
