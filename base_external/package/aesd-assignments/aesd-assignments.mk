@@ -6,8 +6,8 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION =2a82d97532d059cf0213b78f53e09cf0e8252457
-AESD_ASSIGNMENTS_SITE =git@github.com:cu-ecen-5013/assignment-3-manual-kernel-and-root-filesystem-build-HARSH1911RATHORE.git
+AESD_ASSIGNMENTS_VERSION =899c833f3cbb8938e96b50449be21f63bfecbe21
+AESD_ASSIGNMENTS_SITE =git@github.com:cu-ecen-5013/final-project-Kushagra42.git
 AESD_ASSIGNMENTS_SITE_METHOD =git
 
 
@@ -17,7 +17,8 @@ endef
 
 #TODO: Add required executables or scripts below
 define AESD_ASSIGNMENTS_INSTALL_TARGET_CMDS
-	$(INSTALL) -m 0755 $(@D)/writer $(TARGET_DIR)/bin
+	$(INSTALL) -m 0755 $(@D)/Temperature_i2c $(TARGET_DIR)/bin
+	$(INSTALL) -m 0755 $(@D)/Uart_raspi $(TARGET_DIR)/bin
 endef
 
 
